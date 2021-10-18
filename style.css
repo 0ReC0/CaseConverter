@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+textarea {
+    width: 96%;
+    height: 500px;
+    margin: 1% 1%;
+}
+.buttons {
+    display: flex;
+}
+button {
+    padding: 0.3em;
+    background-color: bisque;
+    border: none;
+    border-radius: 2px;
+}
